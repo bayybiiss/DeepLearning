@@ -1,0 +1,30 @@
+age: Hastanın yaşı. Kalp hastalığı riski genellikle yaşla birlikte artar.
+
+sex: Hastanın cinsiyeti. Erkeklerin kalp hastalığı riski kadınlara göre genellikle daha yüksektir.
+
+cp: Göğüs ağrısı tipi. Belirli tipteki göğüs ağrıları, kalp hastalığı belirtilerinden biri olabilir.
+
+trtbps: Dinlenme kan basıncı (mm Hg). Yüksek kan basıncı kalp hastalığı riskini artırabilir.
+
+chol: Kolesterol seviyesi (mg/dL). Yüksek kolesterol seviyeleri de kalp hastalığı riskini artırabilir.
+
+fbs: Açlık kan şekeri > 120 mg/dL. Yüksek açlık kan şekeri, diyabet gibi metabolik durumların varlığına işaret edebilir ve kalp hastalığı riskini artırabilir.
+
+restecg: Dinlenme elektrokardiyografik sonuçlar. Kalp kası hasarı veya anormalliklerini gösterebilir.
+
+thalachh: Maksimum kalp atış hızı. Daha yüksek maksimum kalp atış hızı, genellikle daha iyi bir kardiyovasküler sağlıkla ilişkilendirilir.
+
+exng: Egzersize bağlı anjina. Egzersiz sırasında göğüs ağrısı yaşayan bireylerde kalp hastalığı riski artar.
+
+oldpeak: Egzersizle ilişkili ST depresyonu. Egzersizle ilişkili ST segmenti depresyonu, kalp kası hasarını veya kan akışının azalmasını gösterebilir ve kalp hastalığı riskini artırabilir.
+
+slp: Eğim. Egzersiz testi sırasında ST segmentinin eğimi. Anormallikler kalp kası hasarını veya anormal kan akışını gösterebilir.
+
+caa: Renkli damarların sayısı. Renkli damarların sayısı, arterlerin daralması veya tıkanması gibi kalp hastalığı belirtilerini yansıtabilir.
+
+thall: Talasemi tipi. Talasemi, kalp hastalığı riskini artırabilecek bir kan bozukluğudur.
+
+output: Hastalık varlığı. Bu değişken, hastanın kalp hastalığına sahip olup olmadığını gösterir (1: Var, 0: Yok).
+
+
+
